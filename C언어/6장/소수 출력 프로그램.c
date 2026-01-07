@@ -5,11 +5,11 @@
 int main(void)
 {
 	int num;
-	int pn;		//pnÀÌ 1ÀÌ¸é ¼Ò¼ö(p%i°¡ 0ÀÌ¾Æ´Ï°í p¿Í i°¡ °°Áö ¾ÊÀ½)
+	int pn;		
 	int i,j;
 	int cnt = 0;
 
-	printf("2ÀÌ»óÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+	printf("2ì´ìƒì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš” : ");
 	scanf("%d", &num);
 
 	for (i = 2; i <= num; i++)
@@ -35,4 +35,5 @@ int main(void)
 	}
 
 	return 0;
+
 }
