@@ -1,15 +1,11 @@
-#include <stdio.h>
+#include <stdio.h>	
 
 int main(void)
 {
-	int a;
-	double b;
+	int a = 3;
+	a = a + 3;
 
-	a = 10;
-	b = 3;
-
-	printf("a / b는 : %lf\n", a / b);
-	printf("b / a는 : %lf\n", b / a);
+	printf("a의 값은 : %d\n", a);
 
 	return 0;
 }
