@@ -8,8 +8,8 @@ int main(void)
 	a = 10;
 	b = 3;
 
-	printf("a / b´Â : %lf\n", a / b);
-	printf("b / a´Â : %lf\n", b / a);
+	printf("a / bëŠ” : %lf\n", a / b);
+	printf("b / aëŠ” : %lf\n", b / a);
 
 	return 0;
 }
