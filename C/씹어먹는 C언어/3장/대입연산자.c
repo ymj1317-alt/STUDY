@@ -1,11 +1,15 @@
-#include <stdio.h>	
+#include <stdio.h>
 
 int main(void)
 {
-	int a = 3;
-	a = a + 3;
+	int a;
+	double b;
 
-	printf("aÀÇ °ªÀº : %d\n", a);
+	a = 10;
+	b = 3;
+
+	printf("a / bëŠ” : %lf\n", a / b);
+	printf("b / aëŠ” : %lf\n", b / a);
 
 	return 0;
 }
