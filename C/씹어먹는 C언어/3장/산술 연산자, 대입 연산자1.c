@@ -7,7 +7,7 @@ int main(void)
 	a = 10;
 	b = 3;
 
-	printf("a / b´Â : %lf\n", a / b);
+	printf("a / bëŠ” : %lf\n", a / b);
 
 	return 0;
 }
