@@ -6,11 +6,11 @@ int main(void)
 	a = 10;
 	b = 3;
 
-	printf("a + b´Â : %d\n", a + b);
-	printf("a - b´Â : %d\n", a - b);
-	printf("a * b´Â : %d\n", a * b);
-	printf("a / b´Â : %d\n", a / b);
-	printf("a % b´Â : %d\n", a % b);
+	printf("a + bëŠ” : %d\n", a + b);
+	printf("a - bëŠ” : %d\n", a - b);
+	printf("a * bëŠ” : %d\n", a * b);
+	printf("a / bëŠ” : %d\n", a / b);
+	printf("a % bëŠ” : %d\n", a % b);
 
 	return 0;
 }
