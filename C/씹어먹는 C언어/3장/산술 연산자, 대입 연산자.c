@@ -10,7 +10,8 @@ int main(void)
 	printf("a - b는 : %d\n", a - b);
 	printf("a * b는 : %d\n", a * b);
 	printf("a / b는 : %d\n", a / b);
-	printf("a % b는 : %d\n", a % b);
+	printf("a %% b는 : %d\n", a % b);
 
 	return 0;
 }
+
