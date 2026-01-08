@@ -6,7 +6,7 @@ int main(void)
 	
 	a = 10;
 
-	printf("aÀÇ °ªÀº : %d\n", a);
+	printf("aì˜ ê°’ì€ : %d\n", a);
 
 	return 0;
 }
