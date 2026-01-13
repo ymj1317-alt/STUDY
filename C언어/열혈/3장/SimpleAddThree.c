@@ -6,10 +6,10 @@ int main(void)
 	int result;
 	int num1, num2;
 
-	printf("Á¤¼ö one : ");
+	printf("ì •ìˆ˜ one : ");
 	scanf("%d", &num1);
 
-	printf("Á¤¼ö two : ");
+	printf("ì •ìˆ˜ two : ");
 	scanf("%d", &num2);
 
 	result = num1 + num2;
