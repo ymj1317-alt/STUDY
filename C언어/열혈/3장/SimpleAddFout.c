@@ -6,7 +6,7 @@ int main(void)
 	int result;
 	int num1, num2, num3;
 
-	printf("¼¼ °³ÀÇ Á¤¼ö ÀÔ·Â : ");
+	printf("ì„¸ ê°œì˜ ì •ìˆ˜ ì…ë ¥ : ");
 	scanf("%d %d %d", &num1, &num2, &num3);
 
 	result = num1 + num2 + num3;
