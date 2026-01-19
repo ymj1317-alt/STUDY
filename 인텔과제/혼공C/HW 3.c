@@ -6,7 +6,7 @@ int main(void)
     int num1 = 0, num2 = 0;
     char sign;
 
-    printf("»çÄ¢¿¬»ê ÀÔ·Â(Á¤¼ö) : ");
+    printf("ì‚¬ì¹™ì—°ì‚° ìž…ë ¥(ì •ìˆ˜) : ");
     scanf("%d%c%d", &num1, &sign, &num2);
 
     int result=0;
